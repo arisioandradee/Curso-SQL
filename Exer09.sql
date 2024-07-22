@@ -1,0 +1,3 @@
+SELECT *
+FROM salaries
+WHERE salary BETWEEN '125000' AND '175000';
