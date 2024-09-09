@@ -1,0 +1,2 @@
+## O que são Stored Procedures?
+É uma Query que pode ser reutilizada, recurso semelhante a funções de linguagem de programação. Pode receber parâmetros e há necessidade de um recurso chamado DELIMETERS para delimitar quando icia e finaliza a procedure.
